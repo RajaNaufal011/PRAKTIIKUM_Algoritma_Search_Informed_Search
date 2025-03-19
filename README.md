@@ -37,9 +37,4 @@ Setiap file mencakup implementasi algoritma serta contoh penggunaannya yang dapa
    python a_star_graph.py  
    ```  
 
-## **Kontribusi**
-Kontribusi dalam bentuk perbaikan kode, optimasi algoritma, atau penambahan fitur baru sangat dihargai. Silakan lakukan *fork*, buat perubahan, dan ajukan *pull request*.
-
-## **Lisensi**
-Repository ini dirilis di bawah lisensi [MIT](LICENSE).
 
