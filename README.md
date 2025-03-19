@@ -1,5 +1,5 @@
 # PRAKTIIKUM_Algoritma_Search_Informed_Search
-# 2306020_Raja Naufal Fadhil Ns
+#2306020_Raja Naufal Fadhil Ns
 
 # Implementasi Algoritma Pencarian dengan Informasi Tambahan (*Informed Search*)
 
